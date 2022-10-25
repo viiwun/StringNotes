@@ -38,7 +38,7 @@ public class StringNotes {
         System.out.println(s2.compareTo(s1));
                             // compareTo - compares the first index of the given strings lexicographically(ASCII);
                             // for example "o" is lexicographically smaller than "t", so s1.compareTo(s2) returns -5
-                            // and vice versa : t > o, so it will return 5
+                            // and vice versa : t > o, so will return 5
 
     }
 }
